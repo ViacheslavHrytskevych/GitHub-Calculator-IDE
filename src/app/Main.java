@@ -6,6 +6,8 @@ public class Main {
     static int b;
     static int c;
     static int d;
+    static int e;
+    static int f;
 
     public static void main(String[] args) {
         System.out.println("Calculator for base calculations");
