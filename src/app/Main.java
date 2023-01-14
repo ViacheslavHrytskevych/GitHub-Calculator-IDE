@@ -29,4 +29,8 @@ public class Main {
     private static int subtraction(int a, int b) {
         return a - b;
     }
+
+    private static int division(int a, int b) {
+        return a / b;
+    }
 }
