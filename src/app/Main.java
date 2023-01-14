@@ -18,6 +18,10 @@ public class Main {
         System.out.println(c);
         d = multiply(a, b);
         System.out.println(d);
+        e = subtraction(a, b);
+        System.out.println(e);
+        f = division(a, b);
+        System.out.println(f);
     }
 
     private static int add(int a, int b) {
