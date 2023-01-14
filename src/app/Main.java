@@ -26,7 +26,7 @@ public class Main {
         return a * b;
     }
 
-    private static int Subtraction(int a, int b) {
+    private static int subtraction(int a, int b) {
         return a - b;
     }
 }
